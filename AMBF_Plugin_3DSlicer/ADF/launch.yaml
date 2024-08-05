@@ -1,0 +1,19 @@
+# This is the base file for Coordination Application
+world config: ./world/world.yaml
+# world config: ./world/raven_world.yaml
+color config: ./color/colors.yaml
+input devices config: ./input_devices/input_devices.yaml
+plugins: [
+  {
+    path: ../build/plugins/control_plugin,
+    name: AMBF_3DSLICER_PLUGIN,
+    filename: libAMBF_3DSlicer_Plugin.so
+  }
+]
+multibody configs:
+  - "./galen.yaml" #0
+  - "./sensors_actuators.yaml" #1
+  - "./skull.yaml" #2
+  - "./unconstrained-platform-version/galen.yaml" #3
+  - "./volume_171.yaml" #4
+  - "./galen_drill.yaml" #5
