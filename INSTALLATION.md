@@ -6,7 +6,9 @@ The project consist of two parts:
 
 The 3D Slicer ROS Module handles the information and communication via ROS. The AMBF simulator Plugin is capable of publishing robot states and robot visualization materials to ROS for the 3D Slicer Module to accquire.
 
-![image](https://user-images.githubusercontent.com/60408626/207697152-3285fb40-c3dd-4dbf-838d-3d9a42558848.png)
+<p align="center">
+<img src="figures/modules.png" alt="Modules" width="500"/>
+</p>
 
 
 ## 1.Installation
