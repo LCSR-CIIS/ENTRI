@@ -6,7 +6,7 @@
 
 <samp>
 
-<h2> Enhanced Navigational Toolkit for Robotic Interventions </h2>
+<h2> ENTRI : Enhanced Navigational Toolkit for Robotic Interventions </h2>
 
 <h3> Manish Sahu, Hisashi Ishida, Laura Connolly, Hongyi Fan, Anton Deguet, Peter Kazanzides, Francis X. Creighton, Russell H. Taylor, Adnan Munawar </h3>
 
